@@ -40,5 +40,5 @@ iperf3 -s -p 8010 -i 1
 
 client:
 ```
-iperf3 -c ip -p 8010 -i 1 -t 10
+iperf3 -c [ip] -p 8010 -i 1 -t 10
 ```
